@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cgi-bin
+sitemap: https://exness-login-usa.github.io/sitemap.xml
+
+
+
+
+
